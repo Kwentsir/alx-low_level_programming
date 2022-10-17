@@ -5,7 +5,7 @@
 /**
  * main - entry point
  * Description: print value of n status, zero, positive or negative
- * return: always success
+ * Return: (0) always - success
  */
 
 int main(void)
